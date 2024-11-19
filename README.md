@@ -47,10 +47,14 @@ This project, developed during [Hackathon Name], aims to streamline the research
 
 ## How to Run  
 
-1. Clone the repository:  
+1. For Mac/Linux:
    ```bash
    chmod +x run.sh
    sh ./run.sh
+2. For Windows
+   chmod +x run.ps1
+   ./run.ps1
+
 
 ## Usage  
 
